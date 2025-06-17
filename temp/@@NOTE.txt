@@ -1,0 +1,1 @@
+This is where the MVTXT.hta file will be stored when the VBS file is launched. If you attempt to run two instances at once, the script will throw an error message.
