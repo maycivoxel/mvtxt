@@ -1,0 +1,5 @@
+MVTXT 1.0.1 (the 'God Damn It I Didn't Realise That Mistake' update)
+Update notes:
+
+- Fixed formatting issue with the font size dialog
+- Removed the HTA file that was in the temp folder by default, to avoid file conflicts.
